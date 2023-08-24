@@ -36,25 +36,26 @@ By the end of the semester, our aim is to have a fully functional web app deploy
 
 ## Meeting Schedule
 
-| Meeting # | Date       | Topic                | Description                                 |
-|-----------|------------|----------------------|---------------------------------------------|
-| 1         | Sept 7th   | **First Kickoff Meeting**      | - Introduction to the club and members<br>- Overview of the semester's project<br>- Setting expectations and goals |
-| 2         | Sept 14th  | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 3         | Sept 21st  | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 4         | Sept 28th  | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 5         | Oct 5th    | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 6         | Oct 12th   | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 7         | Oct 19th   | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 8         | Oct 26th   | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 9         | Nov 2nd    | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 10        | Nov 9th    | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 11        | Nov 16th   | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 12        | Nov 23rd   | **Thanksgiving Holiday (NO MEETING)** | - Bullet point 1<br>- Bullet point 2        |
-| 13        | Nov 30th   | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 14        | Dec 7th    | TBD                  | - Bullet point 1<br>- Bullet point 2        |
-| 15        | Dec 14th   | **Last Meeting**                  | - Bullet point 1<br>- Bullet point 2        |
+| Week # | Date       | Topic                | Description                                 |
+|--------|------------|----------------------|---------------------------------------------|
+| 1      | Sept 7th   | **First Kickoff Meeting** | - Introduction to the club and members<br>- Overview of the semester's project<br>- Setting expectations and goals |
+| 2      | Sept 14th  | Introduction to Cloud Computing | - What is Cloud Computing?<br>- Introduction to AWS |
+| 3      | Sept 21st  | Version Control with Git | - Basics of Git and GitHub<br>- Hands-on: Creating a repository |
+| 4      | Sept 28th  | Web Development Basics | - Introduction to HTML, CSS, and JavaScript<br>- Hands-on: Building a simple webpage |
+| 5      | Oct 5th    | Introduction to DevOps | - What is DevOps?<br>- Continuous Integration and Continuous Deployment (CI/CD) |
+| 6      | Oct 12th   | CI/CD with AWS Amplify Hosting | - Setting up a CI/CD pipeline<br>- Deploying a web application |
+| 7      | Oct 19th   | Introduction to Docker | - What is Docker?<br>- Hands-on: Containerizing an application |
+| 8      | Oct 26th   | Database Management with AWS DynamoDB | - Introduction to DynamoDB<br>- Hands-on: Creating a database |
+| 9      | Nov 2nd    | Backend Development with AWS Lambda | - Introduction to serverless architecture<br>- Hands-on: Creating a Lambda function |
+| 10     | Nov 9th    | Advanced Cloud Computing Topics | - Infrastructure-as-Code (IaC)<br>- Cloud-native solutions |
+| 11     | Nov 16th   | Software Engineering Best Practices | - Design patterns<br>- Code reviews |
+| 12     | Nov 23rd   | **Thanksgiving Holiday (NO MEETING)** | - No meeting due to the holiday |
+| 13     | Nov 30th   | Project Updates and Troubleshooting | - Review of project progress<br>- Troubleshooting common issues |
+| 14     | Dec 7th    | Finalizing the Project | - Final touches on the project<br>- Preparing for deployment |
+| 15     | Dec 14th   | **Last Meeting** | - Project showcase<br>- Reflections and next steps |
 
-(Note: The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
+
+(Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
 
 ## Getting Involved
 If you're interested in joining us or have any questions, feel free to reach out to our club leaders or attend one of our meetings. We look forward to seeing you!
