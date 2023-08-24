@@ -1,4 +1,8 @@
-# UMass Lowell Cloud Computing Club - Fall 2023
+[![Website](https://img.shields.io/badge/Website-UML%20Engage-blue.svg?style=for-the-badge)](https://umasslowellclubs.campuslabs.com/engage/organization/cloudcomputingclub)
+[![Discord](https://img.shields.io/discord/890983857938116729?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/WC2NdqYtDt)
+[![Email](https://img.shields.io/badge/Email-cloudcomputingclub%40uml.edu-red.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cloudcomputingclub@uml.edu)
+
+# UMass Lowell Cloud Computing Club: Fall 2023
 
 Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore cloud computing and its applications using Amazon Web Services (AWS) and related technologies. Whether you're a beginner or an expert, join us as we learn together, build projects, and connect with industry professionals.
 
@@ -6,15 +10,13 @@ Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore clou
 
 This semester, we are diving deep into a comprehensive cloud computing project. We aim to develop a full-stack web application that allows users to create, plan, and share their class schedules for their entire degree program. This project will serve as a hands-on learning experience, covering various cloud computing and web development topics.
 
-## Repository Structure
-
 - **Learning Material:** This repository will serve as a centralized location to organize and publish the learning materials we use each week. It will include presentations, demos, tutorials, and other resources to aid our learning journey.
 
 - **Project Repository:** The actual development of the College Degree Program Scheduler web application will take place in a separate repository. Our goal is to encourage members to actively contribute and commit to that repository. By doing so, members can demonstrate their skills, knowledge, and contributions to future employers. We believe that hands-on experience, reflected through genuine GitHub activity, is invaluable for showcasing one's capabilities.
 
-For the link to the project repository and to start contributing, please refer to the [Project Repository](#) section. (Note: Replace `#` with the actual link to the project repo.)
+For the link to the project repository and to start contributing, please refer to the [Project Repository](#) section.
 
-## Project Goals for Fall 2023
+## Project Goals
 
 High-level overview of topics we plan to cover:
 - **DevOps:** Learn about continuous integration, continuous deployment, and infrastructure as code.
