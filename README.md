@@ -16,21 +16,32 @@ This semester, we are diving deep into a comprehensive cloud computing project. 
 
 For the link to the project repository and to start contributing, please refer to the [Project Repository](#) section.
 
-## Project Goals
 
-High-level overview of topics we plan to cover:
-- **DevOps:** Learn about continuous integration, continuous deployment, and infrastructure as code.
-- **Cloud Computing:** Dive deep into AWS services, serverless architectures, and cloud-native solutions.
-- **Software Engineering (SWE):** Understand best practices, design patterns, and modern web development techniques.
+## Project Goals and Technologies
 
-More detailed list:
-- **Version Control with Git:** Introduce and practice version control.
-- **CI/CD with AWS Amplify Hosting:** Implement a continuous integration and deployment pipeline.
-- **Web Development:** Dive into JavaScript, HTML, CSS, and React JS.
-- **Dockerization:** Understand the benefits of Docker and containerization.
-- **Database Management with AWS DynamoDB:** Explore cloud databases.
-- **Backend Development with AWS Lambda:** Learn serverless architecture.
-- **Advanced Cloud Computing Topics:** Dive deeper into cloud computing concepts like infrastructure-as-code (IaC).
+#### Core Competencies
+- **DevOps**: Master the principles of continuous integration, continuous deployment, and infrastructure as code.
+- **Cloud Computing**: Gain in-depth knowledge of AWS services, serverless architectures, and cloud-native solutions.
+- **Software Engineering (SWE)**: Acquire a strong understanding of best practices, design patterns, and modern web development techniques.
+- **Frontend Web Development**: Develop proficiency in creating user interfaces using technologies like HTML, CSS, JavaScript, and React JS.
+
+#### Technologies
+- **Version Control**: Git
+- **CI/CD**: AWS Amplify Hosting
+- **Frontend**: JavaScript, HTML, CSS, React JS, Next JS, MUI
+- **Containerization**: Docker
+- **Database**: AWS DynamoDB
+- **Backend**: AWS Lambda
+- **Infrastructure as Code**: AWS CloudFormation/Terraform
+
+#### Detailed Goals
+1. **Version Control with Git**: Introduce and practice version control to manage codebase effectively.
+2. **CI/CD with AWS Amplify Hosting**: Implement a robust continuous integration and deployment pipeline.
+3. **Web Development**: Master frontend technologies like React JS & Next JS, and understand Server-Side-Rendering principles. 
+4. **Dockerization**: Understand the benefits and practical applications of Docker and containerization.
+5. **Database Management with AWS DynamoDB**: Explore cloud databases and their best practices.
+6. **Backend Development with AWS Lambda**: Learn serverless architecture and how to create and manage Lambda functions.
+7. **Advanced Cloud Computing Topics**: Dive deeper into cloud computing concepts like infrastructure-as-code (IaC) using AWS CloudFormation/Terraform.
 
 By the end of the semester, our aim is to have a fully functional web app deployed on AWS, showcasing the skills and knowledge we've gained.
 
@@ -56,4 +67,7 @@ By the end of the semester, our aim is to have a fully functional web app deploy
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
 
 ## Getting Involved
-If you're interested in joining us or have any questions, feel free to reach out to our club leaders or attend one of our meetings. We look forward to seeing you!
+
+If you're interested in getting involved with our club, the best way to start is by attending our regular club meetings. All organizational tasks, discussions, and work will be coordinated through our [Discord server](https://discord.gg/WC2NdqYtDt).
+
+Feel free to reach out to our club leaders for more information. We look forward to seeing you!
