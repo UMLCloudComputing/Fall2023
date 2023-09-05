@@ -47,22 +47,22 @@ By the end of the semester, our aim is to have a fully functional web app deploy
 
 ## Meeting Schedule
 
-| Date       | Week and Topic                                                      | Description                                 |
-|------------|---------------------------------------------------------------------|---------------------------------------------|
-| Sept 7th   | [Week 1: Kickoff Meeting and Cloud Computing Intro](./Week%201)     | - Introduction to the club and members<br>- What is Cloud Computing? Introduction to AWS services<br>- AWS & GitHub account registration/setup |
-| Sept 14th  | Week 2: Project Planning, SWE Practices, & DevOps     | - Introduction to SWE & Agile methodologies<br>- What is DevOps?<br>- Introduction to CI/CD pipelines<br>- Introduction to GitHub, GitHub Projects, and best practices in Git<br>- Task: Brainstorm Project Requirement<br>- Hands-on: Creating a simple Next.js app and pushing it to GitHub<br>- Hands-on: Setting up a basic CI/CD pipeline using AWS Amplify |
-| Sept 21st  | Week 3: Frontend Development with Next.js             | - Introduction to HTML5 (HTML, CSS, JavaScript)<br>- Deep dive into React JS and Next JS. Component-based architecture.<br>- Hands-on: Building a basic UI for the app |
-| Sept 28th  | Week 4: Work on the App                               | - Work on implementing features and fixing bugs<br>- Peer code reviews |
-| Oct 5th    | Week 5: Database Management with AWS DynamoDB         | - Introduction to Databases. SQL vs Non-SQL Databases.<br>- Introduction to AWS DynamoDB<br>- Database design patterns<br>- Hands-on: Creating tables, inserting, and querying data<br>- Hands-on: Data modeling for the app. |
-| Oct 12th   | Week 6: Backend Development with AWS Lambda           | - Introduction to serverless architecture<br>- Creating AWS Lambda functions<br>- Backend design patterns<br>- Hands-on: Creating and Using Lambda functions |
-| Oct 19th   | Week 7: Docker and Containerization                   | - What is Docker?<br>- Benefits of containerization<br>- Hands-on: Dockerizing the Next.js app |
-| Oct 26th   | Week 8: Unit Testing and Integration Testing          | - Introduction to unit testing and integration testing<br>- Hands-on: Writing tests for the app |
-| Nov 2nd    | Week 9: Advanced Cloud Computing Concepts             | - Introduction to IaC with AWS CloudFormation or Terraform<br>- Hands-on: Writing IaC scripts to provision AWS resources |
-| Nov 9th    | Week 10: Work on the App                            | - Work on implementing features and fixing bugs<br>- Peer code reviews |
-| Nov 16th   | Week 11: Work on the App                            | - Work on implementing features and fixing bugs<br>- Peer code reviews |
-| Nov 23rd   | Week 12: Work on the App                            | - Work on implementing features and fixing bugs<br>- Peer code reviews |
-| Nov 30th   | Week 13: Work on the App                            | - Work on implementing features and fixing bugs<br>- Peer code reviews |
-| Dec 7th    | Week 14: Project Showcase and Reflection             | - Final project presentation<br>- Reflections and feedback<br>- Next steps and future enhancements |
+| Date       | Week and Topic                                                      | Speaker | Description                                 |
+|------------|---------------------------------------------------------------------|---------|---------------------------------------------|
+| Sept 7th   | [Week 1: Kickoff Meeting and Cloud Computing Intro](./Week%201)     | Club Leaders     | - Introduction to the club and members<br>- What is Cloud Computing? Introduction to AWS services<br>- AWS & GitHub account registration/setup |
+| Sept 14th  | [Week 2: Project Planning, SWE Practices, & DevOps](./Week%202)     | - Martin<br>- Guest speaker (TBD)     | - Introduction to SWE & Agile methodologies<br>- What is DevOps?<br>- Introduction to CI/CD pipelines<br>- Introduction to GitHub, GitHub Projects, and best practices in Git<br>- Task: Brainstorm Project Requirement<br>- Hands-on: Creating a simple Next.js app and pushing it to GitHub<br>- Hands-on: Setting up a basic CI/CD pipeline using AWS Amplify |
+| Sept 21st  | [Week 3: Frontend Development with Next.js](./Week%203)             | Martin     | - Introduction to HTML5 (HTML, CSS, JavaScript)<br>- Deep dive into React JS and Next JS. Component-based architecture.<br>- Hands-on: Building a basic UI for the app |
+| Sept 28th  | [Week 4: Work on the App](./Week%204)                               | TBD     | - Work on implementing features and fixing bugs<br>- Peer code reviews |
+| Oct 5th    | [Week 5: Database Management with AWS DynamoDB](./Week%205)         | TBD     | - Introduction to Databases. SQL vs Non-SQL Databases.<br>- Introduction to AWS DynamoDB<br>- Database design patterns<br>- Hands-on: Creating tables, inserting, and querying data<br>- Hands-on: Data modeling for the app. |
+| Oct 12th   | [Week 6: Backend Development with AWS Lambda](./Week%206)           | TBD     | - Introduction to serverless architecture<br>- Creating AWS Lambda functions<br>- Backend design patterns<br>- Hands-on: Creating and Using Lambda functions |
+| Oct 19th   | [Week 7: Docker and Containerization](./Week%207)                   | TBD     | - What is Docker?<br>- Benefits of containerization<br>- Hands-on: Dockerizing the Next.js app |
+| Oct 26th   | [Week 8: Unit Testing and Integration Testing](./Week%208)          | TBD     | - Introduction to unit testing and integration testing<br>- Hands-on: Writing tests for the app |
+| Nov 2nd    | [Week 9: Advanced Cloud Computing Concepts](./Week%209)             | TBD     | - Introduction to IaC with AWS CloudFormation or Terraform<br>- Hands-on: Writing IaC scripts to provision AWS resources |
+| Nov 9th    | [Week 10: Work on the App](./Week%2010)                            | TBD     | - Work on implementing features and fixing bugs<br>- Peer code reviews |
+| Nov 16th   | [Week 11: Work on the App](./Week%2011)                            | TBD     | - Work on implementing features and fixing bugs<br>- Peer code reviews |
+| Nov 23rd   | [Week 12: Work on the App](./Week%2012)                            | TBD     | - Work on implementing features and fixing bugs<br>- Peer code reviews |
+| Nov 30th   | [Week 13: Work on the App](./Week%2013)                            | TBD     | - Work on implementing features and fixing bugs<br>- Peer code reviews |
+| Dec 7th    | [Week 14: Project Showcase and Reflection](./Week%2014)             | TBD     | - Final project presentation<br>- Reflections and feedback<br>- Next steps and future enhancements |
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
 
