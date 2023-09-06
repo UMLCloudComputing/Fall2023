@@ -26,23 +26,62 @@ What is Cloud Computing?
     - Welcome and introductions
     - Ice breaker
     - Club mission and semester overview
+    - Briefly discuss the club's mission to explore cloud computing and its applications using Amazon Web Services (AWS) and related technologies.
 
 2. **What is Cloud Computing? (15 minutes)**
     - Definition and importance
     - Types of cloud services: IaaS, PaaS, SaaS
+    - Discuss the significance of cloud computing in modern technology and business.
+    - Explain the different types of cloud services and their applications.
 
 3. **Introduction to AWS (20 minutes)**
     - AWS services overview
     - Why AWS?
+    - Provide an overview of popular AWS services like EC2, S3, and Lambda.
+    - Discuss why AWS is a leading cloud service provider and its advantages.
 
-4. **AWS & GitHub Account Setup (15 minutes)**
-    - Walkthrough of AWS account creation
-    - GitHub account setup
+4. **GitHub Account & SSH Key Setup (15 minutes)**
+    - Go to [GitHub](https://github.com/) and click "Sign Up"
+    - Follow the on-screen instructions to create an account
+    - Verify your email address
+    - **Setting up SSH keys:**
+        1. Open your terminal
+        2. Run `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+        3. Press Enter to save the key to the default location
+        4. Run `cat ~/.ssh/id_rsa.pub` and copy the output
+        5. Go to GitHub > Settings > SSH and GPG keys > New SSH key
+        6. Paste the copied SSH key and save
 
-5. **Hands-On Activity: Create EC2 Instance from CLI & Console**
-    - Create AWS Access Keys
-    - Use the AWS Console to create/delete EC2 instance
-    - Use the AWS CLI to create/delete EC2 instance
+5. **AWS Account & Access Keys Setup (20 minutes)**
+    - **Club AWS Account:**
+        - Members' AWS accounts have been created under the club's root AWS account.
+        - Log in via [UML Cloud Computing AWS Console](https://uml-cloud-computing.signin.aws.amazon.com/console?region=us-east-1). Good idea to bookmark this link. 
+        - Username: Your student email address
+        - Default Password: `VF#2vc3PmPL|Vje[`
+        - **Note**: If your account doesn't exist, please contact the club leaders on [Discord](https://discord.gg/WC2NdqYtDt).
+    - **Setting up Access Keys:**
+        1. Go to AWS Management Console > IAM > Users
+        2. Select your user name > Security credentials tab
+        3. Choose "Create access key" and download the CSV file
+    - **Setting up Key Pairs:**
+        1. Go to AWS Management Console > EC2 > Key Pairs
+        2. Click "Create key pair" and download the PEM file
+    - **Documentation Example**: [AWS Account and Access Keys](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-appendix-sign-up.html)
+
+6. **Hands-On Activity: Create/Delete EC2 Instance (25 minutes)**
+    - **Using Web Console:**
+        1. Go to AWS Management Console > EC2 > Launch Instance
+        2. Follow the setup wizard and click "Launch"
+        3. To delete, select the instance and click "Terminate"
+    - **Using CLI:**
+        1. Open your terminal
+        2. Run `aws ec2 run-instances --image-id ami-XXXXXXX --count 1 --instance-type t2.micro`
+        3. To delete, run `aws ec2 terminate-instances --instance-ids i-XXXXXXXXXXXXX`
+    - **SSH into EC2 Instance:**
+        1. Open your terminal
+        2. Run `ssh -i "your-key-pair.pem" ec2-user@your-ec2-instance-ip`
+    - **Documentation Example**: [AWS EC2 Tutorial](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
+
 
 ## Homework
 
