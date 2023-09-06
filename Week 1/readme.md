@@ -11,22 +11,20 @@ Welcome to Week 1 of the UMass Lowell Cloud Computing Club! This week serves as 
 - Introduce Amazon Web Services (AWS).
 - Guide members through AWS & GitHub account registration/setup.
 
-## Materials Needed
-
-- Github account
-- An AWS account (follow along for instructions)
-
 ## Resources
 
-- [AWS Free Tier](https://aws.amazon.com/free/)
-- [GitHub](https://github.com/)
-- [Introduction to Cloud Computing](https://aws.amazon.com/what-is-cloud-computing/)
-- [AWS Services Overview](https://aws.amazon.com/products/)
+What is Cloud Computing?
+- Amazon AWS: https://aws.amazon.com/what-is-cloud-computing/
+- Microsoft Azure: https://azure.microsoft.com/en-us/resources/cloud-computing-dictionary/what-is-cloud-computing
+- Google Cloud: https://cloud.google.com/learn/what-is-cloud-computing
+- Oracle Cloud: https://www.oracle.com/cloud/what-is-cloud-computing/
+- IBM Cloud: https://www.ibm.com/topics/cloud-computing
 
 ## Agenda
 
 1. **Introduction (10 minutes)**
     - Welcome and introductions
+    - Ice breaker
     - Club mission and semester overview
 
 2. **What is Cloud Computing? (15 minutes)**
@@ -40,6 +38,11 @@ Welcome to Week 1 of the UMass Lowell Cloud Computing Club! This week serves as 
 4. **AWS & GitHub Account Setup (15 minutes)**
     - Walkthrough of AWS account creation
     - GitHub account setup
+
+5. **Hands-On Activity: Create EC2 Instance from CLI & Console**
+    - Create AWS Access Keys
+    - Use the AWS Console to create/delete EC2 instance
+    - Use the AWS CLI to create/delete EC2 instance
 
 ## Homework
 
