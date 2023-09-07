@@ -41,6 +41,7 @@ What is Cloud Computing?
     - Discuss why AWS is a leading cloud service provider and its advantages.
 
 4. **GitHub Account & SSH Key Setup (15 minutes)**
+    - Install GIT  
     - Go to [GitHub](https://github.com/) and click "Sign Up"
     - Follow the on-screen instructions to create an account
     - Verify your email address
