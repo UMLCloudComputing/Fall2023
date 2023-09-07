@@ -44,13 +44,14 @@ What is Cloud Computing?
     - Go to [GitHub](https://github.com/) and click "Sign Up"
     - Follow the on-screen instructions to create an account
     - Verify your email address
-    - **Setting up SSH keys:**
+    - **Setting up SSH keys:** ([Doc](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
         1. Open your terminal
-        2. Run `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+        2. Run `ssh-keygen -t ed25519 -C "your_email@example.com"`
         3. Press Enter to save the key to the default location
         4. Run `cat ~/.ssh/id_rsa.pub` and copy the output
         5. Go to GitHub > Settings > SSH and GPG keys > New SSH key
         6. Paste the copied SSH key and save
+    - Git installation [documentation](https://github.com/git-guides/install-git)
 
 5. **AWS Account & Access Keys Setup (20 minutes)**
     - **Club AWS Account:**
