@@ -74,6 +74,8 @@ What is Cloud Computing?
         1. Go to AWS Management Console > EC2 > Launch Instance
         2. Follow the setup wizard and click "Launch"
         3. To delete, select the instance and click "Terminate"
+    - **Install AWS CLI**
+        - Follow this [documentation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
     - **Using CLI:**
         1. Open your terminal
         2. Run `aws ec2 run-instances --image-id ami-XXXXXXX --count 1 --instance-type t2.micro`
