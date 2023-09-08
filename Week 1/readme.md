@@ -83,6 +83,7 @@ What is Cloud Computing?
     - **SSH into EC2 Instance:**
         1. Open your terminal
         2. Run `ssh -i "your-key-pair.pem" ec2-user@your-ec2-instance-ip`
+           1. If you run into a permission issue run the following command `chmod 400 your-key-pair.pem`
     - **Documentation Example**: [AWS EC2 Tutorial](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
 
 
