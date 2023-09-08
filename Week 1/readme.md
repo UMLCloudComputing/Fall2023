@@ -45,13 +45,14 @@ What is Cloud Computing?
     - Go to [GitHub](https://github.com/) and click "Sign Up"
     - Follow the on-screen instructions to create an account
     - Verify your email address
-    - **Setting up SSH keys:**
+    - **Setting up SSH keys:** ([Doc](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent))
         1. Open your terminal
-        2. Run `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+        2. Run `ssh-keygen -t ed25519 -C "your_email@example.com"`
         3. Press Enter to save the key to the default location
         4. Run `cat ~/.ssh/id_rsa.pub` and copy the output
         5. Go to GitHub > Settings > SSH and GPG keys > New SSH key
         6. Paste the copied SSH key and save
+    - Git installation [documentation](https://github.com/git-guides/install-git)
 
 5. **AWS Account & Access Keys Setup (20 minutes)**
     - **Club AWS Account:**
@@ -74,6 +75,8 @@ What is Cloud Computing?
         1. Go to AWS Management Console > EC2 > Launch Instance
         2. Follow the setup wizard and click "Launch"
         3. To delete, select the instance and click "Terminate"
+    - **Install AWS CLI**
+        - Follow this [documentation](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
     - **Using CLI:**
         1. Open your terminal
         2. Run `aws ec2 run-instances --image-id ami-XXXXXXX --count 1 --instance-type t2.micro`
@@ -81,6 +84,7 @@ What is Cloud Computing?
     - **SSH into EC2 Instance:**
         1. Open your terminal
         2. Run `ssh -i "your-key-pair.pem" ec2-user@your-ec2-instance-ip`
+           1. If you run into a permission issue run the following command `chmod 400 your-key-pair.pem`
     - **Documentation Example**: [AWS EC2 Tutorial](https://medium.com/edureka/aws-ec2-tutorial-16583cc7798e)
 
 
