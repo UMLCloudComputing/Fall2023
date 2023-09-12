@@ -6,42 +6,18 @@
 
 Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore cloud computing and its applications using Amazon Web Services (AWS) and related technologies. Whether you're a beginner or an expert, join us as we learn together, build projects, and connect with industry professionals.
 
-## Project: College Degree Program Scheduler
+## Announcements :loudspeaker:
+- :tada: We are excited to announce that our College Degree Program Scheduler project has been officially named **UniPath.io**! Check out the [GitHub Repository](https://github.com/UMLCloudComputing/UniPath.io).
 
-This semester, we are diving deep into a comprehensive cloud computing project. We aim to develop a full-stack web application that allows users to create, plan, and share their class schedules for their entire degree program. This project will serve as a hands-on learning experience, covering various cloud computing and web development topics.
+## [Project: UniPath.io](https://github.com/UMLCloudComputing/UniPath.io)
+
+This semester, we are diving deep into a comprehensive cloud computing project named **UniPath.io**. We aim to develop a full-stack web application that allows users to create, plan, and share their class schedules for their entire degree program. This project will serve as a hands-on learning experience, covering various cloud computing and web development topics.
 
 - **Learning Material:** This repository will serve as a centralized location to organize and publish the learning materials we use each week. It will include presentations, demos, tutorials, and other resources to aid our learning journey.
 
-- **Project Repository:** The actual development of the College Degree Program Scheduler web application will take place in a separate repository. Our goal is to encourage members to actively contribute and commit to that repository. By doing so, members can demonstrate their skills, knowledge, and contributions to future employers. We believe that hands-on experience, reflected through genuine GitHub activity, is invaluable for showcasing one's capabilities.
+- **Project Repository:** The actual development of UniPath.io will take place in a separate repository. Our goal is to encourage members to actively contribute and commit to [that repository](https://github.com/UMLCloudComputing/UniPath.io). By doing so, members can demonstrate their skills, knowledge, and contributions to future employers. We believe that hands-on experience, reflected through genuine GitHub activity, is invaluable for showcasing one's capabilities.
 
-For the link to the project repository and to start contributing, please refer to the [Project Repository](#) section.
-
-
-## Project Goals and Technologies
-
-#### Core Competencies
-- **DevOps**: Master the principles of continuous integration, continuous deployment, and infrastructure as code.
-- **Cloud Computing**: Gain in-depth knowledge of AWS services, serverless architectures, and cloud-native solutions.
-- **Software Engineering (SWE)**: Acquire a strong understanding of best practices, design patterns, and modern web development techniques.
-- **Frontend Web Development**: Develop proficiency in creating user interfaces using technologies like HTML, CSS, JavaScript, and React JS.
-
-#### Technologies
-- **Version Control**: Git
-- **CI/CD**: AWS Amplify Hosting
-- **Frontend**: JavaScript, HTML, CSS, React JS, Next JS, MUI
-- **Containerization**: Docker
-- **Database**: AWS DynamoDB
-- **Backend**: AWS Lambda
-- **Infrastructure as Code**: AWS CloudFormation/Terraform
-
-#### Detailed Goals
-1. **Version Control with Git**: Introduce and practice version control to manage codebase effectively.
-2. **CI/CD with AWS Amplify Hosting**: Implement a robust continuous integration and deployment pipeline.
-3. **Web Development**: Master frontend technologies like React JS & Next JS, and understand Server-Side-Rendering principles. 
-4. **Dockerization**: Understand the benefits and practical applications of Docker and containerization.
-5. **Database Management with AWS DynamoDB**: Explore cloud databases and their best practices.
-6. **Backend Development with AWS Lambda**: Learn serverless architecture and how to create and manage Lambda functions.
-7. **Advanced Cloud Computing Topics**: Dive deeper into cloud computing concepts like infrastructure-as-code (IaC) using AWS CloudFormation/Terraform.
+Link to the project repository: https://github.com/UMLCloudComputing/UniPath.io
 
 By the end of the semester, our aim is to have a fully functional web app deployed on AWS, showcasing the skills and knowledge we've gained.
 
