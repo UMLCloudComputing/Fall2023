@@ -109,6 +109,12 @@ Hands-On Activity: Setting up a CI/CD Pipeline (30 minutes)
 - Start brainstorming ideas for the semester project.
 - Go through the resources linked above to prepare for next week's meeting.
 
+---
+
+## Quiz: Week 2 
+
+Check your understanding by taking the [multiple choice quiz here](./Quiz%202.md). 
+
 ## Next Week Preview
 
 Next week, we will dive into Frontend Development with Next.js. Make sure to review the resources provided to get the most out of next week's meeting.
