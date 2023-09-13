@@ -94,6 +94,10 @@ What is Cloud Computing?
 - Sign up for a GitHub account if you don't have one.
 - Go through the "Introduction to Cloud Computing" resource linked above.
 
+## Quiz: Week 2 
+
+Check your understanding by taking the [multiple choice Week 1 quiz here](./Quiz%201.md).
+
 ## Next Week Preview
 
 Next week, we will dive into Project Planning, Software Engineering Practices, and DevOps. Make sure to review the resources provided to get the most out of next week's meeting.

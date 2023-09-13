@@ -113,7 +113,7 @@ Hands-On Activity: Setting up a CI/CD Pipeline (30 minutes)
 
 ## Quiz: Week 2 
 
-Check your understanding by taking the [multiple choice quiz here](./Quiz%202.md). 
+Check your understanding by taking the [multiple choice Quiz 2 here](./Quiz%202.md). 
 
 ## Next Week Preview
 
