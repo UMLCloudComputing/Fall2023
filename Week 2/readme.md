@@ -48,11 +48,48 @@ Welcome to Week 2 of the UMass Lowell Cloud Computing Club! This week, we will d
 
 ### Hands-On Section:
 
-5. **Hands-On Activity: Setting up a CI/CD Pipeline (30 minutes)**
-    - Walkthrough of AWS Amplify to set up a basic CI/CD pipeline
-    - Pushing a simple Next.js app to GitHub
-    - Triggering a build and deploy process in AWS Amplify
-    - Monitoring the pipeline and understanding build logs
+Hands-On Activity: Setting up a CI/CD Pipeline (30 minutes)
+
+- **Node.js is required**: If you don't have Node.js and npm installed, follow the [Node.js installation guide](https://nodejs.org/en/download/).
+- Make sure you can run these commands in your terminal: 
+    ```
+    $ node -v
+    ```
+
+    ```
+    $ npm -v
+    ```
+
+##### Step 1: Fork the UniPath.io Repository
+1. Navigate to `https://github.com/UMLCloudComputing/UniPath.io`
+2. Click on the "Fork" button at the top-right corner to create a fork of the project in your GitHub account.
+
+##### Step 2: Create Branches in GitHub
+1. Clone your forked repository locally
+2. Create a `develop` branch: `git checkout -b develop`
+3. Push the `develop` branch to GitHub: `git push origin develop`
+
+##### Step 3: AWS Amplify Setup
+1. Navigate to the AWS Amplify Console
+2. Click "New App" and choose "Host web app"
+
+##### Step 4: Connect Forked GitHub Repository
+1. Choose GitHub as the source repository
+2. Authenticate and select the forked UniPath.io repository
+
+##### Step 5: Configure Build Settings and Branches
+1. Review the auto-detected build settings
+2. Configure CI/CD for `main` and `develop` branches
+3. Click "Next" and then "Save and Deploy"
+
+##### Step 6: Monitor Build and Deploy
+1. Watch the build logs in real-time
+2. Verify successful deployment and access the live URL
+
+##### Step 7: Make a Change and Observe CI/CD
+1. Make a minor change in your forked UniPath.io project and push to GitHub
+2. Observe the automatic build and deployment in AWS Amplify for the respective branches
+
 
 ## Homework
 
