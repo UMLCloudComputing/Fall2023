@@ -12,10 +12,22 @@ Welcome to Week 2 of the UMass Lowell Cloud Computing Club! This week, we will d
 
 ## Resources
 
+### Slides
+
+PowerPoint slides in this folder are in pptx and pdf format. 
+
+### Videos
+- What Is Agile Methodology? Introduction to Agile Methodology in Six Minutes: https://www.youtube.com/watch?v=8eVXTyIZ1Hs
+- What is a Kanban Board?: https://www.youtube.com/watch?v=Bcid33tgq8A
+- GitHub: Issues & Pull Requests: https://www.youtube.com/watch?v=d3N2yeAaLkc
+- DevOps CI/CD Explained in 100 Seconds: https://www.youtube.com/watch?v=scEDHsr3APg
+
+### Websites
 - Agile Methodology: [Agile Alliance](https://www.agilealliance.org/agile101/)
 - Introduction to DevOps: [AWS DevOps](https://aws.amazon.com/devops/what-is-devops/)
 - Software Engineering Best Practices: [Google Engineering Practices](https://google.github.io/eng-practices/)
-- Git and GitHub: [GitHub Guides](https://guides.github.com/)
+- Learn Git and Version Control: [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/what-is-version-control)
+- Learn Github: [GitHub Guides](https://guides.github.com/)
 
 ## Agenda
 
