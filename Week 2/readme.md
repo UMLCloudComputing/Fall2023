@@ -62,6 +62,67 @@ PowerPoint slides in this folder are in pptx and pdf format.
 
 Hands-On Activity: Setting up a CI/CD Pipeline (30 minutes)
 
+<details>
+  <summary><strong>Note for Martin: Hands-On Activity Instructions</strong></summary>
+
+  For this hands-on activity, you'll be setting up a Next.js project using `create-next-app` and creating a GitHub Action for a CI/CD pipeline that triggers a build on PR requests.
+
+  ### Step-by-Step Instructions
+
+  #### Setting up the Next.js Project
+
+  1. Open your terminal and navigate to the directory where you want to create your new Next.js project.
+  2. Run the following command to create a new Next.js application:
+     ```bash
+     npx create-next-app your-app-name
+     ```
+  3. Navigate into your project's directory:
+     ```bash
+     cd your-app-name
+     ```
+  4. Run your Next.js application to make sure everything is set up correctly:
+     ```bash
+     npm run dev
+     ```
+
+  #### Creating a GitHub Action for CI/CD
+
+  1. In your GitHub repository, go to the "Actions" tab.
+  2. Click on "New workflow" and set up a workflow yourself or choose from the existing templates.
+  3. In the workflow file, add the following YAML configuration to set up Node.js and run your build command:
+     ```yaml
+     name: CI/CD Pipeline
+
+     on:
+       pull_request:
+         branches:
+           - main
+
+     jobs:
+       build:
+         runs-on: ubuntu-latest
+
+         steps:
+         - name: Checkout code
+           uses: actions/checkout@v2
+
+         - name: Setup Node.js
+           uses: actions/setup-node@v2
+           with:
+             node-version: '14'
+
+         - name: Install dependencies
+           run: npm install
+
+         - name: Run build
+           run: npm run build
+     ```
+  4. Commit and save your workflow file.
+  5. This GitHub Action will now trigger a build whenever a PR is made to the `main` branch.
+
+</details>
+
+
 - **Node.js is required**: If you don't have Node.js and npm installed, follow the [Node.js installation guide](https://nodejs.org/en/download/).
 - Make sure you can run these commands in your terminal: 
     ```
