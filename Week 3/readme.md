@@ -13,42 +13,66 @@ Welcome to Week 3 of the UMass Lowell Cloud Computing Club! This week, we will f
 
 ## Resources
 
+### Slides
+
+The slides for "Week 3: Frontend Development with React.js and Next.js" are in PDF and PowerPoint format:
+- [Week 3: Frontend Development with React.js and Next.js (PDF)](./Week%203%20-%20Introduction%20to%20Frontend%20Web%20Development.pdf)
+- [Week 3: Frontend Development with React.js and Next.js (PowerPoint)](./Week%203%20-%20Introduction%20to%20Frontend%20Web%20Development.pptx)
+
 ### Videos
 
-- TBD
+- [React JS Explained In 10 Minutes](https://www.youtube.com/watch?v=s2skans2dP4)
+- [Next.js 13 - The Basics](https://www.youtube.com/watch?v=__mSgDEOyv8)
 
 ### Websites
 
 - React.js Documentation: [React Docs](https://react.dev/learn)
 - Next.js Documentation: [Next.js Docs](https://nextjs.org/docs)
 
+## Tutorials
+
+Please go through the following tutorials to get a better understanding of the topics covered in this week's meeting:
+
+- [Getting Started with Node.js and Web Development using NVM](https://www.taniarascia.com/getting-started-with-react/)
+- [Introduction to Git Workflow](./Gitflow%20Workflow%20Tutorial.md)
+- [W3Schools: HTML Tutorial](https://www.w3schools.com/html/default.asp)
+- [W3Schools: CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [W3Schools: JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [React.js Tutorial](https://react.dev/learn/tutorial-tic-tac-toe)
+- [Getting Started with Next.js](./Getting%20Started%20with%20NextJS.md)
+
 ## Agenda
 
 ### Presentation Section:
 
-1. **Introduction (10 minutes)**
+1. **Introduction**
     - Recap of last week's meeting
     - Overview of this week's topics
 
-2. **Introduction to Git (15 minutes)**
+2. **Introduction to Git Workflow**
     - What is Git?
-    - Basic Git commands: `clone`, `add`, `commit`, `push`, `pull`
-    - Importance of version control in software development
+    - Git commands
+    - Git workflow
+    - Demo: [Git workflow](./Gitflow%20Workflow%20Tutorial.md)
 
-3. **What is Frontend Development? (15 minutes)**
+3. **What is Frontend Development?**
     - Importance of Frontend Development
     - Basics of HTML, CSS, and JavaScript
     - Role of frameworks and libraries
+    - Demo: [HTML, CSS, and JavaScript](https://www.w3schools.com/html/default.asp)
 
-4. **Introduction to React.js (20 minutes)**
+4. **Introduction to React.js**
     - What is React.js?
     - Features of React.js
     - Creating a simple React.js application
+    - Video: [React JS Explained In 10 Minutes](https://www.youtube.com/watch?v=s2skans2dP4)
+    - Demo: [React.js Tutorial: Tic-Tac-Toe](https://react.dev/learn/tutorial-tic-tac-toe)
 
-5. **Introduction to Next.js (15 minutes)**
+5. **Introduction to Next.js**
     - What is Next.js?
     - Features of Next.js
-    - Creating a simple Next.js application
+    - Video: [Next.js 13 - The Basics](https://www.youtube.com/watch?v=__mSgDEOyv8)
+    - Demo: Creating a simple Next.js application
 
 ### Hands-On Section:
 
