@@ -1,11 +1,11 @@
 variable "website" {
   type        = bool
-  default     = true
+  default     = false
   description = "Enable website"
 }
 
 variable "website_policy" {
   type        = bool
-  default     = true
+  default     = false
   description = "Enable website policy"
 }
