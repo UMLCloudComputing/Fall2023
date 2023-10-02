@@ -12,23 +12,12 @@ Welcome to Week 4 of the UMass Lowell Cloud Computing Club! This week, we will c
 
 ## Resources
 
-### Slides
+Important: Please go through and complete the following resources!
 
-- TBD
-
-### Videos
-
-- TBD
-
-### Websites
-
-- Next.js Documentation: [Next.js Docs](https://nextjs.org/docs)
-
-## Tutorials
-
-Please go through the following tutorials to get a better understanding of the topics covered in this week's meeting:
-
-- TBD
+- WATCH: Material UI Crash Course: https://www.youtube.com/watch?v=_W3uuxDnySQ
+- COMPLETE: [Basic MUI tutorial](./Tutorial_MUI_Basic.md) - Create an Album page
+- COMPLETE: [Advanced MUI tutorial](./Tutorial_MUI_Advanced.md) - Create a Resume page
+- COMPLETE: [Next.js Tutorial](https://nextjs.org/learn/basics/create-nextjs-app)
 
 ## Agenda
 
