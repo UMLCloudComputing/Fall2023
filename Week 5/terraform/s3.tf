@@ -27,14 +27,18 @@ resource "aws_s3_bucket_versioning" "c3_s3_demo" {
 resource "aws_s3_bucket_public_access_block" "c3_s3_demo" {
   bucket = aws_s3_bucket.c3_s3_demo.id
 
-  block_public_acls       = true
+  block_public_acls       = var.website ? false : true
   block_public_policy     = var.website ? false : true
-  ignore_public_acls      = true
+  ignore_public_acls      = var.website ? false : true
   restrict_public_buckets = var.website ? false : true
 }
 
 resource "aws_s3_bucket_policy" "c3_s3_demo" {
   count = var.website_policy ? 1 : 0
+
+  depends_on = [
+    aws_s3_bucket_public_access_block.c3_s3_demo
+  ]
 
   bucket = aws_s3_bucket.c3_s3_demo.id
   policy = jsonencode({
@@ -50,7 +54,6 @@ resource "aws_s3_bucket_policy" "c3_s3_demo" {
     ]
   })
 }
-
 
 resource "aws_s3_bucket_lifecycle_configuration" "expiration_policy" {
   bucket = aws_s3_bucket.c3_s3_demo.id

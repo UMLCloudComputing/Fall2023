@@ -26,7 +26,11 @@ resource "aws_iam_role" "ec2_role" {
       Version = "2012-10-17"
       Statement = [
         {
-          Action   = ["s3:Describe*"]
+          Action   = [
+            "s3:Describe*",
+            "s3:List*",
+            "s3:Get*"
+          ]
           Effect   = "Allow"
           Resource = "*"
         }
