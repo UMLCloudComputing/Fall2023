@@ -8,7 +8,7 @@ In this tutorial, we will walk through how to create an album layout using React
 
 ## Prerequisites
 
-- Please complete the offical [React Tic-Tac-Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe) before starting this tutorial :exclamation: That tutorial will teach you the basics of React and important concepts such as components, props, and state. 
+- Please complete the offical [React Tic-Tac-Toe Tutorial](https://react.dev/learn/tutorial-tic-tac-toe) before starting this tutorial! That tutorial will teach you the basics of React and important concepts such as components, props, and state. 
 
 ## Step 1: Setting Up Your React Project
 
