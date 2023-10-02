@@ -12,23 +12,13 @@ Welcome to Week 4 of the UMass Lowell Cloud Computing Club! This week, we will c
 
 ## Resources
 
-### Slides
+Important: Please go through and complete the following resources!
 
-- TBD
-
-### Videos
-
-- TBD
-
-### Websites
-
-- Next.js Documentation: [Next.js Docs](https://nextjs.org/docs)
-
-## Tutorials
-
-Please go through the following tutorials to get a better understanding of the topics covered in this week's meeting:
-
-- TBD
+- [ ] **COMPLETE**: Offical React.js Tutorial: https://react.dev/learn/tutorial-tic-tac-toe
+- [ ] **WATCH**: Material UI Crash Course: https://www.youtube.com/watch?v=_W3uuxDnySQ
+- [ ] **COMPLETE**: [Basic MUI tutorial - Album Page](./Tutorial_MUI_Basic.md)
+- [ ] **COMPLETE**: [Advanced MUI tutorial - Resume page](./Tutorial_MUI_Advanced.md)
+- [ ] **COMPLETE**: Next.js Tutorial: https://nextjs.org/learn/basics/create-nextjs-app
 
 ## Agenda
 
@@ -60,6 +50,7 @@ Hands-On Activity: Continuing the UI development for UniPath.io
 
 ## Homework
 
+- Complete all the resources linked above.
 - Continue working on the UI for UniPath.io.
 - Explore advanced Next.js features and try to implement them in a project.
 - Go through the resources linked above to prepare for next week's meeting.
