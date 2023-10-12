@@ -10,6 +10,12 @@ Welcome to Week 6 of the UMass Lowell Cloud Computing Club! This week, we'll del
 - Understand data modeling for applications.
 
 ## Resources
+
+### Slides
+
+Slides for this week are located in this folder here: [Cloud Computing Club: DynamoDB](Cloud_Computing_Club_DynamoDB.pdf)
+
+### Links
 - **SQL vs Non-SQL Databases**
   - [SQL vs NoSQL: What's the difference?](https://www.mongodb.com/nosql-explained/nosql-vs-sql)
 - **AWS DynamoDB**
