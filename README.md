@@ -7,7 +7,8 @@
 Welcome to the UMass Lowell Cloud Computing Club! Our mission is to explore cloud computing and its applications using Amazon Web Services (AWS) and related technologies. Whether you're a beginner or an expert, join us as we learn together, build projects, and connect with industry professionals.
 
 ## Announcements :loudspeaker:
-- :tada: We are excited to announce that our College Degree Program Scheduler project has been officially named **UniPath.io**! Check out the [GitHub Repository](https://github.com/UMLCloudComputing/UniPath.io).
+- [10/13] The UML Cloud Computing Club continues to make an impact: https://umasslowellclubs.campuslabs.com/engage/news/288850
+- [9/15] :tada: We are excited to announce that our College Degree Program Scheduler project has been officially named **UniPath.io**! Check out the [GitHub Repository](https://github.com/UMLCloudComputing/UniPath.io).
 
 ## [Project: UniPath.io](https://github.com/UMLCloudComputing/UniPath.io)
 
