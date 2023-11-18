@@ -42,10 +42,10 @@ By the end of the semester, our aim is to have a fully functional web app deploy
 | ✅ Oct 26th   | [Week 8: Docker and Containerization](./Week%208)                   | Matthew Harper     | **Presentation Section:**<br>- What is Docker?<br>- Benefits of containerization<br>**Hands-On Section:**<br>- Dockerizing the Next.js app. |
 | ✅ Nov 2nd    | [Week 9: Guest Speaker - Brennan Macaig](./Week%209)                         | [Brennan Macaig](https://www.linkedin.com/in/brennan-macaig), SRE, DraftKings     | **Presentation Section:**<br>- Topic: Introduction to IaC with Terraform<br>**Hands-On Section:**<br>- Writing IaC scripts to provision AWS resources. |
 | ✅ Nov 9th    | [Week 10: Work on UniPath.io](./Week%2010)        | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
-| 🔜 Nov 16th   | [Week 11: Work on UniPath.io](./Week%2011)            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
+| ✅ Nov 16th   | [Week 11: Work on UniPath.io](./Week%2011)            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
 | ❌ Nov 23rd   | [Week 12: Thanksgiving Break](./Week%2012)                            | N/A     | Thanksgiving break, no meeting. |
 | 🔜 Nov 30th   | [Week 13: Work on UniPath.io](./Week%2013)                            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
-| 🔜 Dec 7th    | [Week 14: Work on UniPath.io](./Week%2014)             | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
+| 🔜 Dec 7th    | [Week 14: Present UniPath.io](./Week%2014)             | Club Leaders     | **Presentation Section:**<br>- We will be presenting UniPath.io to our club [Faculty Advisor](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx), and discuss our technology stack and current progress.<br>**Hands-On Section:**<br>- Continue work on the UniPath.io project.
 
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
