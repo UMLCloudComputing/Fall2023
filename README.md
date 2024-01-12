@@ -1,3 +1,6 @@
+# This repository has been archived. [Please visit the new Spring 2024 repository here](https://github.com/UMLCloudComputing/Spring2024).
+
+
 [![Website](https://img.shields.io/badge/Website-UML%20Engage-blue.svg?style=for-the-badge)](https://umasslowellclubs.campuslabs.com/engage/organization/cloudcomputingclub)
 [![Discord](https://img.shields.io/discord/890983857938116729?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/WC2NdqYtDt)
 [![Email](https://img.shields.io/badge/Email-cloudcomputingclub%40uml.edu-red.svg?logo=gmail&logoColor=white&style=for-the-badge)](mailto:cloudcomputingclub@uml.edu)
@@ -44,8 +47,8 @@ By the end of the semester, our aim is to have a fully functional web app deploy
 | ✅ Nov 9th    | [Week 10: Work on UniPath.io](./Week%2010)        | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
 | ✅ Nov 16th   | [Week 11: Work on UniPath.io](./Week%2011)            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
 | ❌ Nov 23rd   | [Week 12: Thanksgiving Break](./Week%2012)                            | N/A     | Thanksgiving break, no meeting. |
-| 🔜 Nov 30th   | [Week 13: Work on UniPath.io](./Week%2013)                            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
-| 🔜 Dec 7th    | [Week 14: Present UniPath.io](./Week%2014)             | Club Leaders     | **Presentation Section:**<br>- We will be presenting UniPath.io to our club [Faculty Advisor](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx), and discuss our technology stack and current progress.<br>**Hands-On Section:**<br>- Continue work on the UniPath.io project.
+| ✅ Nov 30th   | [Week 13: Work on UniPath.io](./Week%2013)                            | Club Leaders     | Full meeting time will be devoted to the Hands-On section for work on the UniPath.io project. |
+| ✅ Dec 7th    | [Week 14: Present UniPath.io](./Week%2014)             | Club Leaders     | **Presentation Section:**<br>- We will be presenting UniPath.io to our club [Faculty Advisor](https://www.uml.edu/sciences/computer-science/people/weis-johannes.aspx), and discuss our technology stack and current progress.<br>**Hands-On Section:**<br>- Continue work on the UniPath.io project.
 
 
 (Note: The schedule is tentative and expected to change. The topics and descriptions for subsequent meetings will be updated as we progress through the semester.)
